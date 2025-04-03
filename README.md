@@ -15,7 +15,7 @@ Examples of how these courses could look:
   - [Cognitive & computational neuroscience: an introduction to machine/deep learning and neuro-data-science](https://peerherholz.github.io/Cog_Com_Neuro_ML_DL/)
   - [Python for Psychologists](https://peerherholz.github.io/Python_for_Psychologists_Winter2021)
   - [Course on Empirical Research in Neurocognitive Psychology](https://peerherholz.github.io/EXPRA_Winter2021)
-
+  
 
 
 Credit goes to the original G0RELLA template lectures.
